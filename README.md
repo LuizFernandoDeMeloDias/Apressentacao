@@ -14,13 +14,13 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![vue](https://img.shields.io/ badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![vue](https://camo.githubusercontent.com/ea9f80ac4db387ca253e1c9e4e95b611261790f42877d0782b8d26b7003d2b52/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d5675652e6a73266d6573736167653d76322e3626636f6c6f723d344643303844267374796c653d666c61742d737175617265266c6f676f3d7675652e6a73266c6f676f436f6c6f723d666666666666)
 
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)[
-  ![Godot Engine](https://banner2.cleanpng.com/20180506/aaw/kisspng-godot-game-engine-github-free-and-open-source-soft-5aeefb83c36741.1712265115256113958004.jpg)
+  ![Godot Engine](https://user-images.githubusercontent.com/30739239/93908465-2c11c700-fcee-11ea-893c-c56eebd5a25e.png)
 
 <br/>
 
