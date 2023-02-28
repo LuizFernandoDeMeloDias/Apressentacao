@@ -1,12 +1,11 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+<h1>Seja bem vindo ao meu perfil. </h1>
+<h3> 👦: &nbsp;Sobre mim </h3>
+- 👦 &nbsp; Me chamo Luiz Fernando de Melo. <br>
+- 🕗 &nbsp; Tenho 19 Anos.<br>
+- 🎓 &nbsp; Estudando TSI -> TECNOLOGIA EM SISTEMAS PARA INTERNET no <a href="https://www.iffarroupilha.edu.br/"> IFF</a>.<br>
+- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos, JS, HTML, CSS, Vue.js, React.js.<br>
 
-<h3> :boy: &nbsp;Sobre mim </h3>
-
-- 🎓 &nbsp; Estudando Sistemas Para Internet no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como Estoquista na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos, JS, HTML, CSS.
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> 📖: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
@@ -19,8 +18,8 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)[
-  ![Godot Engine](https://user-images.githubusercontent.com/30739239/93908465-2c11c700-fcee-11ea-893c-c56eebd5a25e.png)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC),
+  Godot
 
 <br/>
 
